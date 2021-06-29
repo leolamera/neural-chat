@@ -1,7 +1,7 @@
 applications:
   - name: neural-chat-cf
     path: .
-    command: node index.js
+    command: node src/index.js
     instances: 1
     routes:
       - route: neural-chat-cf.mybluemix.net
