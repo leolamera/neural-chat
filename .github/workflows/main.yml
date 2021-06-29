@@ -13,6 +13,6 @@ jobs:
         with:
           IBM_CLOUD_API_KEY: rJNtIVOcq45RxF9Q_FB8szhbjrbkAPnYLFCw3MkZOrWD
           IBM_CLOUD_CF_API: api.us-south.cf.cloud.ibm.com
-          IBM_CLOUD_CF_ORG: mvp-neural-chat
+          IBM_CLOUD_CF_ORG: lameranha@gmail.com
           
 
