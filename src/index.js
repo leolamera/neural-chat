@@ -10,4 +10,4 @@ app.get("/", async (req, res) => {
 
 console.log(process.env.LOCATION_DEPLOY)
 
-app.listen(5000, () => console.log("🪐 server is listen on port 5000 🔥"))
+app.listen(8080, () => console.log("🪐 server is listen on port 8080 🔥"))
