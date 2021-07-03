@@ -15,5 +15,10 @@ jobs:
           IBM_CLOUD_CF_API: api.us-south.cf.cloud.ibm.com
           IBM_CLOUD_CF_ORG: lameranha@gmail.com
           IBM_CLOUD_CF_SPACE: dev
+        env:
+          environment: prod
+          apikey: ${ env.apikey }
+          password: ${ env.password }
+          port:  ${ env.port }
           
 
